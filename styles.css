@@ -71,7 +71,7 @@ form input,
 textarea,
 form button {
   display: block;     
-  width: 100%;          
+  width: auto;          
   margin-bottom: 10px;  
   box-sizing: border-box;
 }
