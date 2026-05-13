@@ -12,6 +12,9 @@ header {
   text-align: center;
 }
 
+header h1 {
+  color: #D4AF37;
+}
 
 nav a {
   color: #D4AF37;
