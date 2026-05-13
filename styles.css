@@ -65,12 +65,7 @@ footer {
   padding: 15px;
   margin-top: 20px;
 }
-label, input, textarea {
-  display: block;
-}
 
-input,
-textarea {
-  margin-bottom: 15px;
-  padding: 25px;
+form {
+  display: block;
 }
