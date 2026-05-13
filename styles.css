@@ -70,7 +70,8 @@ form label,
 form input,
 textarea,
 form button {
-  display: block;     
+  display: block; 
+  align-items: center;
   width: auto;          
   margin-bottom: 10px;  
   box-sizing: border-box;
