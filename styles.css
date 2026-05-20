@@ -92,7 +92,7 @@ input, textarea {
 
 .contact-container {
   display: flex;
-  gap: 40px;
+  gap: 150px;
   align-items: center;
 }
   
