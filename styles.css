@@ -39,7 +39,7 @@ h1, h2, h3 {
 button,
 .btn {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px;
   background-color: #D4AF37; /* gold */
   border: none;
   color: #3E2F2B; 
@@ -47,6 +47,7 @@ button,
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
+  margin-top: 10px;
 }
 
 button:hover,
@@ -77,3 +78,10 @@ ul {
   list-style: none;
   padding: 0;
 }
+
+input, textarea {
+  margin-bottom: 10px;
+}
+
+  
+
