@@ -66,8 +66,9 @@ footer {
   margin-top: 20px;
 }
 
-.form-group {
+form {
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
+  width: 300px;
 }
