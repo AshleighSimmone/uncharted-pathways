@@ -72,6 +72,7 @@ form {
   flex-direction: column;
   margin-bottom: 15px;
   width: 300px;
+  margin-left: 25px;
 }
 
 ul {
@@ -94,7 +95,6 @@ input, textarea {
   display: flex;
   gap: 250px;
   align-items: center;
-  margin-left: 60px;
 }
   
 
