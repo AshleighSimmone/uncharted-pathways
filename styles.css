@@ -98,4 +98,10 @@ input, textarea {
   margin-top: 40px;
 }
   
-
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+  }
+}
