@@ -105,3 +105,11 @@ input, textarea {
     align-items: center;
   }
 }
+
+.about-photo {
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto 20px;
+}
