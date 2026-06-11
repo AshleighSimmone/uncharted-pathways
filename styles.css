@@ -115,7 +115,7 @@ input, textarea {
 }
 
 .sunrise-photo {
-  width; 600px;
+  width: 600px;
   max-width: 100%;
   height: auto;
   display: block;
