@@ -141,7 +141,8 @@ input, textarea {
 
 . logo-container img {
   width: 60px;
-  height: auto;
+  height: 60px;
+  objecy-fit: contain;
 }
 
 .logo-container h1 {
