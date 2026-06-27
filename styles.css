@@ -140,8 +140,8 @@ input, textarea {
 }
 
 .logo-container img {
-  width: 20px;
-  height: 20px;
+  width: 60px;
+  height: auto;
   object-fit: contain;
 }
 
