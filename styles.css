@@ -139,7 +139,7 @@ input, textarea {
   gap: 10px;
 }
 
-. logo-container img {
+.logo-container img {
   width: 20px;
   height: 20px;
   object-fit: contain;
